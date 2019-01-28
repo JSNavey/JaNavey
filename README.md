@@ -1,6 +1,6 @@
 # Portfolio
 
-Responsive portfolio using HTML5, CSS3 and html5up.net
+### Responsive portfolio using HTML5, CSS3 and html5up.net
 
 Paradigm Shift by HTML5 UP (html5up.net)
 Free for personal and commercial use under the CCA 3.0 license 
