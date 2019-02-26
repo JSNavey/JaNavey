@@ -1,0 +1,23 @@
+{
+  "name": "JaNavey",
+  "version": "1.0.0",
+  "description": "https://jsnavey.github.io/JaNavey/",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d JaNavey"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSNavey/JaNavey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSNavey/JaNavey/issues"
+  },
+  "homepage": "https://jsnavey.github.io/JaNavey/",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
