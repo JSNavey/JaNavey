@@ -1,5 +1,5 @@
 # Portfolio
-www.jsnavey.com
+www.jsnavey.com<br/>
 https://jsnavey.github.io/JaNavey/
 
 ### Responsive portfolio using HTML5, CSS3 and html5up.net
